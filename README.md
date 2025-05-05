@@ -9,7 +9,7 @@ A program that locates the nearest meteorological station in Poland and retrieve
 - 🛡️ Secure queries respecting the API usage policy
 
 ## System Requirements (for python script)
-- Python 3.7+
+- Python 3.11 and higher
 - Libraries:
 - requests
 - math
